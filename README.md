@@ -1,4 +1,9 @@
 # HANGMAN GAME
-A classic Hangman game implemented in Python using the Turtle graphics library for a fun and interactive experience.
-Guess letters to reveal a randomly selected word, and watch the hangman figure drawn progressively for each incorrect guess.
-Enjoy this text-based game with a visual twist! more eye catching.
+
+## Description
+ Hangman Game in Python with Turtle Graphics.
+ Guess letters, discover the word, and enjoy the visual journey as the hangman takes form with each incorrect guess.
+
+## Goal
+Guess the word correctly before the hangman is fully drawn. 
+A fun and interactive Python game to test your word skills!
