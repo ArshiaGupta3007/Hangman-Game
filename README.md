@@ -7,3 +7,5 @@
 ## Goal
 Guess the word correctly before the hangman is fully drawn. 
 A fun and interactive Python game to test your word skills!
+
+## Screenshots
